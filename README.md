@@ -37,11 +37,11 @@ This tool is designed for educational and personal use. I am not responsible for
 
 ## VirusTotal Report
 The application has been scanned with [VirusTotal](https://www.virustotal.com/) and is confirmed to be clean. You can view the scan results at the following link:
-- **[VirusTotal Report for Foldersnapper Icon Changer](#)** (https://www.virustotal.com/gui/file/ea7d531168a711e94b3150630513dd9fb3d627f2fa7c96cf384599401a633f41/details).
+-[VirusTotal Report for Foldersnapper Icon Changer](https://www.virustotal.com/gui/file/ea7d531168a711e94b3150630513dd9fb3d627f2fa7c96cf384599401a633f41/details).
 
 ## GitHub Links & Releases
 - **GitHub Repository:** [https://github.com/pasindudilsan/Foldersnapper](https://github.com/pasindudilsan/Foldersnapper)
-- **Releases:** [Foldersnapper Icon Changer Releases](https://github.com/pasindudilsan/Foldersnapper/releases)
+- **Releases:** [Foldersnapper Icon Changer Releases](https://github.com/pasindudilsan/Foldersnapper/releases/)
 
 You can find the latest version of the application in the **releases** section of the repository. Download the **.zip** file and start using it right away.
 
