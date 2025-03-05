@@ -56,10 +56,10 @@ This software uses the following libraries:
 Below are some screenshots of the application in action:
 
 1. **Home Window:**
-   ![Home Window](https://github.com/pasindudilsan/Foldersnapper/screenshots/screenshot1.png)
+   ![Home Window](https://github.com/pasindudilsan/Foldersnapper/1.png)
 
 2. **Converter window:**
-   ![Converter Window](https://github.com/pasindudilsan/Foldersnapper/screenshots/screenshot2.png)  
+   ![Converter Window](https://github.com/pasindudilsan/Foldersnapper/2.png)  
 
 
 ---
