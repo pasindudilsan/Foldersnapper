@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pasindu/FolderIconChanger/main/icon.png" width="150" alt="Folder Icon Changer">
+  <img src="https://github.com/pasindudilsan/Foldersnapper/blob/main/icon.png" width="150" alt="Folder Icon Changer">
 </p>
    
 Foldersnapper Icon Changer is a simple, lightweight application that allows you to customize the icons of your folders on Windows. It's portable, easy to use, and doesn’t require installation. With this tool, you can personalize your folder appearances.
