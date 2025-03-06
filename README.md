@@ -63,3 +63,8 @@ Below are some screenshots of the application in action:
 
 
 ---
+
+## Report Bugs
+If you find any bugs or issues, feel free to report them on the **[GitHub Issues](https://github.com/pasindudilsan/Foldersnapper/issues)** page.
+
+---
