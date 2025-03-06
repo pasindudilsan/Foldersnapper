@@ -1,0 +1,19 @@
+Foldersnapper Icon Changer - Release Notes
+------------------------------------
+
+Version 0.1 (Beta Test)
+- Internal beta testing version.
+- Not officially released to the public.
+- Basic functions tested successfully.
+
+Version 0.2 (First Public Release on 2025/3/5)
+- First official release.
+- Change folder icons using custom .ico files.
+- Convert Images in to .ico files.
+- Simple and modern GUI with CustomTkinter.
+- Portable standalone software.
+- Added Help menu and About menu.
+
+------------------------------------
+Made by Pasindu dilsan | ©️ 2025
+GitHub: https://github.com/pasindudilsan/Foldersnapper
