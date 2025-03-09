@@ -42,8 +42,9 @@ Although this software is **100% clean** and free of viruses, some antivirus sof
 This tool is designed for educational and personal use. I am not responsible for any issues caused by using this software. Please use it only if you trust me!
 
 ## VirusTotal Report
-The application has been scanned with [VirusTotal](https://www.virustotal.com/) and is confirmed to be clean. You can view the scan results at the following link:
+The application has been scanned with [VirusTotal](https://www.virustotal.com/) and is confirmed to be clean. You can view the scan results at the following links:
 -[VirusTotal Report for Foldersnapper Icon Changer V0.2](https://www.virustotal.com/gui/file/ea7d531168a711e94b3150630513dd9fb3d627f2fa7c96cf384599401a633f41/details).
+
 -[VirusTotal Report for Foldersnapper Icon Changer V0.3]
 (https://www.virustotal.com/gui/file/234bc95b4649a8f35bb8af531b9414c34a49bbf29bb0d6c88bd6cc8a33836eb5/details).
 
